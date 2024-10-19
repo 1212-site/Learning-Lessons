@@ -1,2 +1,2 @@
-# Learning-Lessons
-Welcome to the fascinating world of Python programming! Python is not just a programming language; it's a powerful tool that opens doors to creativity and innovation. Whether you're a beginner or an experienced coder, Python's simple syntax and versatility make it an ideal choice for building everything from web applications to data analysis tools.
+# Python Fundamentals
+Explore the world of Basic Python, where programming is both fun and accessible! This course covers essential concepts like variables, data types, and control flow, helping you understand how to write effective code. You'll learn how to create functions to organize your programs and use lists and dictionaries to manage data easily. With its clear syntax, Python makes coding straightforward, allowing you to tackle real-world challenges and bring your ideas to life. Join us and start your coding journey today!
